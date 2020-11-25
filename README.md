@@ -8,9 +8,9 @@
 
 2D Kernel Density Estimations using Theta and Delta waves
 
-![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/Choco20_mvkde.png)
-![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/Drag12_mvkde.png)
-![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/Drag13_mvkde.png)
+![](Images/Choco20_mvkde.png)
+![](Images/Drag12_mvkde.png)
+![](Drag13_mvkde.png)
 
 # [Project 2: Iris Flower](https://github.com/mcooper98/iris_flower)
 * Machine learning model used to predict particular species of the iris flower via input data
