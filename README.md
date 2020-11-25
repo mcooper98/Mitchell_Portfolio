@@ -4,9 +4,9 @@
 * Created various statistical representations using real world data to determine the most accurate representation for use by an unsupervised machine learning model
 *Built machine learning algorithms in both Python and MATLAB
 *Handled migration from Google Colab to MATLAB which required restructuring of our codebase
-![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/2dkde_choco20.fig)
-![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/2dkde_drag12.fig)
-![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/2dkde_drag13.fig)
+![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/2dkde_choco20.fig?raw=true)
+![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/2dkde_drag12.fig?raw=true)
+![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/2dkde_drag13.fig?raw=true)
 
 # [Project 2: Iris Flower](https://github.com/mcooper98/iris_flower)
 * Machine learning model used to predict particular species of the iris flower via input data
