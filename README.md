@@ -4,9 +4,9 @@
 * Created various statistical representations using real world data to determine the most accurate representation for use by an unsupervised machine learning model
 *Built machine learning algorithms in both Python and MATLAB
 *Handled migration from Google Colab to MATLAB which required restructuring of our codebase
-![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/2dkde_choco20.fig?raw=true)
-![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/2dkde_drag12.fig?raw=true)
-![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/2dkde_drag13.fig?raw=true)
+![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/Choco20_mvkde.png)
+![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/Drag12_mvkde.png)
+![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/Drag13_mvkde.png)
 
 # [Project 2: Iris Flower](https://github.com/mcooper98/iris_flower)
 * Machine learning model used to predict particular species of the iris flower via input data
@@ -15,4 +15,5 @@
 # [Project 3: Soccer Player Wages vs Values](https://github.com/mcooper98/Soccer_wage_vs_value)
 * By cleaning and reformatting the wages and values columns from a database listing all current professional soccer playters I created a scatter plot with x,y as (wages, value) in order to determine which players are overvalued or undervalued. 
 * Created an additional column that listed the difference of value - wage for each player in order to quantify the magnitute of their evaluations. 
+
 ![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/soccer2019_wages_vs_values.png)
