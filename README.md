@@ -10,5 +10,5 @@
 * Model is trained on the Iris flowert data set. 
 
 # Project 3: Soccer Player Wages vs Values
-*By cleaning and reformatting the wages and values columns from a database listing all current professional soccer playters I created a scatter plot with x,y as (wages, value) in order to determine which players are overvalued or undervalued. 
-*Created an additional column that listed the difference of value - wage for each player in order to quantify the magnitute of their evaluations. 
+* By cleaning and reformatting the wages and values columns from a database listing all current professional soccer playters I created a scatter plot with x,y as (wages, value) in order to determine which players are overvalued or undervalued. 
+* Created an additional column that listed the difference of value - wage for each player in order to quantify the magnitute of their evaluations. 
