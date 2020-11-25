@@ -6,9 +6,11 @@
 *Built machine learning algorithms in both Python and MATLAB
 *Handled migration from Google Colab to MATLAB which required restructuring of our codebase
 
-[2D KDE Choco20](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/Choco20_mvkde.png)
-[2D KDE Drag12](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/Drag12_mvkde.png)
-[2D KDE Drag13](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/Drag13_mvkde.png)
+2D Kernel Density Estimations using Theta and Delta waves
+
+![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/Choco20_mvkde.png)
+![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/Drag12_mvkde.png)
+![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/Drag13_mvkde.png)
 
 # [Project 2: Iris Flower](https://github.com/mcooper98/iris_flower)
 * Machine learning model used to predict particular species of the iris flower via input data
