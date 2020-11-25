@@ -1,12 +1,14 @@
 # Data_Science_Portfolio
 
 # [Project 1 (ongoing): Lab Work](https://github.com/mcooper98/lab_work)
-* Created various statistical representations using real world data to determine the most accurate representation for use by an unsupervised machine learning model
+* Created various statistical representations using data from subjects Choco20, Drag12, and Drag13 data to determine the most accurate representation for use by an unsupervised machine learning model
+*Goal of model is to optimize the configuration of a neurological implant
 *Built machine learning algorithms in both Python and MATLAB
 *Handled migration from Google Colab to MATLAB which required restructuring of our codebase
-![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/Choco20_mvkde.png)
-![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/Drag12_mvkde.png)
-![](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/Drag13_mvkde.png)
+
+[2D KDE Choco20](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/Choco20_mvkde.png)
+[2D KDE Drag12](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/Drag12_mvkde.png)
+[2D KDE Drag13](https://github.com/mcooper98/Data_Science_Portfolio/blob/main/Images/Drag13_mvkde.png)
 
 # [Project 2: Iris Flower](https://github.com/mcooper98/iris_flower)
 * Machine learning model used to predict particular species of the iris flower via input data
