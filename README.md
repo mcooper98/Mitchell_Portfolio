@@ -22,7 +22,7 @@
 
 ![](Images/soccer2019_wages_vs_values.png)
 
-# [Project 4: 2021 League of Legends Mid-Season Invitaional](https://github.com/mcooper98/MSI_2021)'
+# [Project 4: 2021 League of Legends Mid-Season Invitaional](https://github.com/mcooper98/MSI_2021)
 * Exploratory Data Analysis
 * Analytics and models based off 2021 League of Legends Mid Season Invitational
 * Champion win rate by lane
