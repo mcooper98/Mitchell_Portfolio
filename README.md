@@ -21,3 +21,14 @@
 * Created an additional column that listed the difference of value - wage for each player in order to quantify the magnitute of their evaluations. 
 
 ![](Images/soccer2019_wages_vs_values.png)
+
+# [Project 4: 2021 League of Legends Mid-Season Invitaional](https://github.com/mcooper98/MSI_2021)'
+* Exploratory Data Analysis
+* Analytics and models based off 2021 League of Legends Mid Season Invitational
+* Champion win rate by lane
+* Overall champion win rate
+* Info graphic displaying pick rate vs win rate 
+* Interactive version of info graphic scatter plot using Bokeh 
+* Linear and Logistic regression in attempts to create predictive models for professional league of legends games 
+
+![](win_vs_pick_rate.png)
