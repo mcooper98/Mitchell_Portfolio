@@ -31,4 +31,4 @@
 * Interactive version of info graphic scatter plot using Bokeh 
 * Linear and Logistic regression in attempts to create predictive models for professional league of legends games 
 
-![](win_vs_pick_rate.png/win_vs_pick_rate.png)
+![](Images/win_vs_pick_rate.png)
