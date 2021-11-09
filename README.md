@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-# [Project 1 (ongoing): Lab Work](https://github.com/mcooper98/lab_work)
+# [Project 1: Gross Translational Neuro-engineering Laboratory](https://github.com/mcooper98/lab_work)
 * Created various statistical representations using data from subjects Choco20, Drag12, and Drag13 data to determine the most accurate representation for use by an unsupervised machine learning model
 * Goal of model is to optimize the configuration of a neurological implant
 * Built machine learning algorithms in both Python and MATLAB
